@@ -17,7 +17,7 @@ Fullerton, Tracy. _Game Design Workshop_. 2nd ed. Burlington, MA: Morgan Kaufman
 
 Gygax, Gary, and Dave Arneson. _Dungeons and Dragons_. Lake Geneva, WI: Tactical Studies Rules, 1974.
 
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. "MDA: A Formal Approach to Game Design and Game Research." In _Proceedings of the Challenges in Game AI Workshop at the 19th National Conference on Artificial Intelligence_. San Jose, CA: AAAI Press, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. "MDA: A Formal Approach to Game Design and Game Research." In _Proceedings of the Challenges in Game AI Workshop at the 19th National Conference on Artificial Intelligence_. San Jose, CA: AAAI Press, 2004. ([PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
 
 Juul, Jesper. "[Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games](http://www.jesperjuul.net/text/swapadjacent/)." _Artifact_ 1 (2007): 205-216.
 
@@ -47,7 +47,7 @@ Readings by Session
 | 1 |  {{< br >}}{{< br >}} Lecture: class and syllabus introduction {{< br >}}{{< br >}} What games and sports do the students/instructors play? Introduction to first reading, syllabus, writing expectations. \[PT\] {{< br >}}{{< br >}}  | &nbsp; |
 | 2 | Lecture: design \[JJ\] |  {{< br >}}{{< br >}} _Rules of Play,_ Ch. 3. {{< br >}}{{< br >}} Zimmerman, Eric. "[Play as Research: The Iterative Design Process](https://famst109mg.wordpress.com/2017/01/17/play-as-research-the-iterative-design-process-eric-zimmerman/)." {{< br >}}{{< br >}}  |
 | 3 | Workshop: introduction to playtesting \[DR\] |  {{< br >}}{{< br >}} Fullerton, Tracy. _Game Design Workshop_, Ch. 8. {{< br >}}{{< br >}} Wells, H. G. [_Little Wars_](http://www.gutenberg.org/etext/3691). {{< br >}}{{< br >}}  |
-| 4 | Lecture: types of fun and game history \[JJ\] |  {{< br >}}{{< br >}} Hunicke, LeBlanc, and Zubek. "MDA: A Formal Approach to Game Design and Game Research." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)) {{< br >}}{{< br >}} Juul, Jesper. "[Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games](http://www.jesperjuul.net/text/swapadjacent/)." {{< br >}}{{< br >}}  |
+| 4 | Lecture: types of fun and game history \[JJ\] |  {{< br >}}{{< br >}} Hunicke, LeBlanc, and Zubek. "MDA: A Formal Approach to Game Design and Game Research." ([PDF](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)) {{< br >}}{{< br >}} Juul, Jesper. "[Swap Adjacent Gems to Make Sets of Three: A History of Matching Tile Games](http://www.jesperjuul.net/text/swapadjacent/)." {{< br >}}{{< br >}}  |
 | 5 | Lecture: game design patterns and twenty formal game questions \[DR, CFV\] | Björk, and Holopainen. "Games and Design Patterns." _Game Design Reader_, p. 410. |
 | 6 | Guest workshop, Scot Osterweil: playtesting exercise – poker variants | _Rules of Play_, Ch. 11 and 12. |
 | 7 | Guest lecture, Barry Kudrowitz: toys | Background Reading: _Rules of Play_, Ch. 5, 7, 9, and 10. |
