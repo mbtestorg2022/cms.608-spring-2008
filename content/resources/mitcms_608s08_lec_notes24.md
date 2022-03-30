@@ -4,6 +4,7 @@ description: Lecture notes on bending and breaking game rules, and five differen
   player types. Notes by Clara Rhee.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-608-game-design-spring-2008/055e8ccd46a0c01a98bc4aaed200cfed_MITCMS_608s08_lec_notes24.pdf
 file_type: application/pdf
+parent_uid: 12b60a52-0318-773e-6b72-f3b8c191d3ef
 resourcetype: Document
 title: 'Lecture: Bending and Breaking'
 uid: 055e8ccd-46a0-c01a-98bc-4aaed200cfed
